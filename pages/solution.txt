@@ -14,3 +14,7 @@ byte8:there_s_more_than_what_meets_the_eye
 byte9:you_re_on_the_right_path
 byte10:Kimberlee
 byte11:45 Peta
+byte12:which_command_is_the_best
+byte13:descriptive_git_commit_messages_are_great
+byte14: Ναι εχει δικιο. copy_paste_the_fastest_way_to_introduce_bugs_you_dont_understand
+byte15:the_exit_code_is_42
