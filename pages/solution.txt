@@ -6,4 +6,6 @@ byte1: brown_paper_packages_tied_up_with_strings
 byte2: grep_and_you_shall_find
 byte3: And all the men and women merely players
        And all the men and women merely programmers
-byte4: maze/left/right/8/cup.txt
+byte4: the_triwizard_cup_is_yours_watch_out_for_the_horntail
+byte5: sdi2600789_1793269113_990797741_88_197_62_251_63378_22
+byte6: unzip_whenever_you_feel_a_little_compressed
